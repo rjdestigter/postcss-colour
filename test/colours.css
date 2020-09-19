@@ -1,0 +1,27 @@
+a {
+	colour: Red;
+	background-colour: Red;
+	border-colour: Red;
+	border-top-colour: Red;
+}
+
+b {
+	colour: rgba(0, 0, 0, 0.5);
+	background-colour: rgba(0, 0, 0, 0.5);
+	border-colour: rgba(0, 0, 0, 0.5);
+	border-top-colour: rgba(0, 0, 0, 0.5);
+}
+
+c {
+	colour: BLUE;
+	background-colour: BLUE;
+	border-colour: BLUE;
+	border-top-colour: BLUE;
+}
+
+d {
+	colour:#CCC;
+	background-colour:#CCC;
+	border-colour:#CCC;
+	border-top-colour:#CCC;
+}
