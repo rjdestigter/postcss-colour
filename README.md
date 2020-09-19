@@ -1,6 +1,8 @@
 # PostCSS Colour [<img src="https://postcss.github.io/postcss/logo.svg" alt="PostCSS" width="90" height="90" align="right">][postcss]
 
-[PostCSS Colour] lets you use define coluors in css the way her majesty Queen Elizabeth II intended it.
+[PostCSS Colour] lets you use define colours in css the way her majesty Queen Elizabeth II intended it.
+
+Build and test architecture cloned from [postcss-short-size]
 
 ```pcss
 body {
@@ -52,3 +54,4 @@ postcss([
 
 [PostCSS]: https://github.com/postcss/postcss
 [PostCSS Colour]: https://github.com/rjdestigter/postcss-colour
+[postcss-short-size]: https://github.com/jonathantneal/postcss-short-size

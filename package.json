@@ -1,8 +1,11 @@
 {
   "name": "postcss-colour",
   "version": "1.0.0",
-  "description": "Use this in CSS",
+  "description": " Define colours in css the way her majesty Queen Elizabeth II intended it.",
   "author": "John de Stigter <johndestigter@gmail.com>",
+  "contributors": [
+    "Jonathan Neal <jonathantneal@hotmail.com>"
+  ],
   "license": "CC0-1.0",
   "repository": "rjdestigter/postcss-colour",
   "homepage": "https://github.com/rjdestigter/postcss-colour#readme",
